@@ -1,0 +1,124 @@
+body{
+    background-color: #faf1ea !important;
+}
+.navImage{
+    background-image: url('360_F_634096945_nT013AXOaokOmXXU0mRlfSLmnSbbmZXw.jpg');
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+
+}
+.navbarDiv{
+    font-size: x-large;
+    font-weight: bold;
+}
+.brandName{
+    font-size: xx-large !important;
+}
+.homeStyle{
+    color:#c3620d !important;
+}
+
+.badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+    font-size: 20px !important;
+  } 
+  
+  .badgeWarning[href] {
+    background-color: #c67605;
+  }
+  #lblCartCount {
+      font-size: 12px;
+      background: #c3620d;
+      color: #fff;
+      padding: 0 5px;
+      vertical-align: top;
+      margin-left: -10px; 
+  }
+  .divBody{
+    color: #c67605;
+    align-content: center;
+    justify-items: center;
+    height: 700px;
+    font-size: xx-large;
+  }
+ #cartModal{
+    color: #c67605;
+    align-content: center;
+    justify-items: center;
+  }
+  .btnStyle{
+    color: #c67605 !important;
+    background-color: white !important;
+    border: none !important;
+    width:150px !important;
+  }
+  .cards{
+    border: none;
+    color: #c67605 !important;
+    background-color: #faf1ea !important;
+    height: 200px;
+    border-left: 3px solid #c67605 !important;
+  }
+  #display{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: center; 
+    padding: 20px; 
+  }
+  .productStyle{
+    display: block;
+    background-color: white;
+    color: #c67605;
+    width: 30%; 
+    height: 650px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box; 
+  }
+img{
+height: 400px;
+width: 90%;
+background-color: #faf1ea;
+  }
+  .btnDivStyle{
+    color: white !important;
+    background-color: #c28245 !important;
+    border: none !important;
+    width:250px !important;
+  }
+  .seeMoreBtn{
+    color: white !important;
+    background-color: #c28245 !important;
+    border: none !important;
+    width:500px !important;
+  }
+  .ourProducts{
+    color: #c28245;   
+  }
+  .footerStyle{
+    background-color: #c28245;
+}
+.footerTextStyle{
+    color: white;
+    font-size: xx-large;
+}
+.footerTextStyle:hover{
+    color: white;
+}
+.shoopingCartStyle{
+  background-color: #c28245;
+  color: white;
+  border: none;
+}
+.shoopingCartStyle:hover{
+  background-color: #c28245;
+  color: white;
+  border: none;
+}
